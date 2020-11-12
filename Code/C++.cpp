@@ -1,7 +1,8 @@
 /************************************************************************************************/
-/*** Topic: Wang-Buzsaki model with Runge-Kutta 4th Order Method for one neuron    Ali-Seif   ***/
+/*** Topic: Wang-Buzsaki model with Runge-Kutta 4th Order Method for                          ***/
+/***        three inhibitory neurons for connect to the FBL                  Ali-Seif         ***/
 /*** Version Release 17.12 rev 11256                                                          ***/
-/*** Date: 11/10/2020                                                                         ***/
+/*** Date: 11/12/2020                                                                         ***/
 /*** Code implemented in CodeBlocks C++ compiler (v. 17.12),                                  ***/
 /*** MSI: PX60 6QD/ DDR4                                                                      ***/
 /*** Run under a Intel® Core™ i7-6700HQ CPU @ 2.60GHz × 64 based processor with 16 GB RAM     ***/
