@@ -1,4 +1,4 @@
-# FBL_____Wang-Buzsaki____Runge-Kutta
+# Feed Back Loop Wang-Buzsaki Runge-Kutta
 Wang-Buzsaki model with Runge-Kutta 4th Order Method for three inhibitory neurons for connect to the Feed Back Loop
 
 ## Graph theory
